@@ -65,5 +65,3 @@ Além de estudar os métodos HTTP, o principal valor do Postman no suporte é **
 - Como estruturar uma Collection organizada com variáveis de ambiente (`base_url`)
 - Como escrever testes simples para validar respostas de API
 
----
-*Projeto feito como parte de preparação para vaga de Suporte Técnico N1.*
